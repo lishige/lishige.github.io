@@ -10,3 +10,4 @@
     - https://www.yuque.com/lishige
     - https://github.com/lishige
     - https://mm.edrawsoft.cn/user/16809300
+- 微信公众号：DataScienceAIStars
