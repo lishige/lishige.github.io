@@ -4,11 +4,10 @@
 - 名： 世阁
 - 昵称： 读书百遍者
 - 方向： 阅推和编程
+- 定位：阅读推广和数据星辰
 - 邮箱：
   - 国内：lishige@petalmail.com
   - 国外：lishige@outlook.com
 - 个人主页：
   - https://www.yuque.com/lishige
   - https://github.com/lishige
-  - https://mm.edrawsoft.cn/user/16809300
-- 微信公众号：数据星辰（DataScienceAIStars）
