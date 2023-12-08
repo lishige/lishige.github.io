@@ -1,13 +1,13 @@
-# 一、个人简介
-
 - 姓： 李
 - 名： 世阁
 - 昵称： 读书百遍者
-- 方向： 阅推和编程
+- 方向： 阅读和编程
 - 定位：阅读推广和数据星辰
 - 邮箱：
   - 国内：lishige@petalmail.com
   - 国外：lishige@outlook.com
 - 个人主页：
-  - https://www.yuque.com/lishige
-  - https://github.com/lishige
+  - 语雀：https://www.yuque.com/lishige
+  - Github：https://github.com/lishige
+  - 阅读推广：https://lishige.notion.site/945e3dc5acd741169684f7f81bfc79f2?pvs=4
+  - 数据星辰：https://lishige.notion.site/27b106d0bf224c13bbad7acd8155d9db?pvs=4
