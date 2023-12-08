@@ -1,5 +1,4 @@
-- 姓： 李
-- 名： 世阁
+- 姓名： 李世阁
 - 昵称： 读书百遍者
 - 定位：阅读推广和数据星辰
 - 邮箱：lishige@outlook.com/lishige@petalmail.com
