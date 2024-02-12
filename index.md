@@ -9,5 +9,5 @@
 - 主页：
   - 语雀：https://www.yuque.com/lishige
   - Github：https://github.com/lishige
-  - 阅读推广：https://lishige.notion.site/945e3dc5acd741169684f7f81bfc79f2?pvs=4
-  - 数据星辰：https://lishige.notion.site/27b106d0bf224c13bbad7acd8155d9db?pvs=4
+  - 阅读与推广：https://lishige.notion.site/945e3dc5acd741169684f7f81bfc79f2?pvs=4
+  - 计算机编程：https://lishige.notion.site/27b106d0bf224c13bbad7acd8155d9db?pvs=4
