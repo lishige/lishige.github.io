@@ -1,7 +1,7 @@
 # lishige.github.io
 
 |序号|标题|地址|
-|-|-|-|
+|:--|:--|:--|
 |1|阅读推广部成立历史|<https://mm.edrawsoft.cn/template/91784>|
 |2|MySQL关键字执行顺序|<https://mm.edrawsoft.cn/template/92158>|
 |3|概率论与数理统计期末复习提纲|<https://mm.edrawsoft.cn/template/92930>|
